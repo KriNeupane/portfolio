@@ -10933,6 +10933,12 @@ p.lead {
   font-size: 3rem;
 }
 
+.dev-icons img{
+  width: 4rem;  
+  height: 4rem; 
+  object-fit: contain; 
+}
+
 section.resume-section {
   display: flex;
   align-items: center;
